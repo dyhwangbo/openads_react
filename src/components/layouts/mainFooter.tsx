@@ -27,7 +27,7 @@ const MainFooter = () => {
                 </div>
                 {/*하단 띠 배너 형태의 구독하기*/}
                 <div className="ly-new-letter">
-                    {/* 일정 이상 스크롤을 내리면 나타나도록 수정해야한다.*/}
+                    {/* 일정 이상 스크롤을 내리면 나타나도록 수정해야한다..*/}
                     <div className="ly-new-letter type3 open">
                         <div className="box-body">
                             <a className="btn-close"></a>
