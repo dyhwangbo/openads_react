@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+    font-family:'Nanum Barun Gothic';
+    font-style:normal;
+    font-weight:100;
+    src:local('Nanum Barun Gothic'),
+        url('NanumBarunGothic-UltraLight.woff2') format('woff2'),
+        url('NanumBarunGothic-UltraLight.woff') format('woff'),
+        url('NanumBarunGothic-UltraLight.otf') format('opentype');
+}
+
+@font-face {
+    font-family:'Nanum Barun Gothic';
+    font-style:normal;
+    font-weight:300;
+    src:local('Nanum Barun Gothic'),
+        url('NanumBarunGothic-Light.woff2') format('woff2'),
+        url('NanumBarunGothic-Light.woff') format('woff'),
+        url('NanumBarunGothic-Light.otf') format('opentype');
+}
+
+@font-face {
+    font-family:'Nanum Barun Gothic';
+    font-style:normal;
+    font-weight:400;
+    src:local('Nanum Barun Gothic'),
+        url('NanumBarunGothic-Regular.woff2') format('woff2'),
+        url('NanumBarunGothic-Regular.woff') format('woff'),
+        url('NanumBarunGothic-Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family:'Nanum Barun Gothic';
+    font-style:normal;
+    font-weight:700;
+    src:local('Nanum Barun Gothic'),
+        url('NanumBarunGothic-Bold.woff2') format('woff2'),
+        url('NanumBarunGothic-Bold.woff') format('woff'),
+        url('NanumBarunGothic-Bold.otf') format('opentype');
+}
